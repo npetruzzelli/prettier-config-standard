@@ -1,0 +1,27 @@
+{
+  "name": "prettier-config-standard",
+  "version": "1.0.0",
+  "description": "A Prettier shareable config for projects using 'Prettier' and 'JavaScript Standard Style' as ESLint rules or separate processes.",
+  "main": ".prettierrc.json",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:npetruzzelli/config-prettier-standard.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "eslintplugin",
+    "eslint-plugin",
+    "JavaScript Standard Style",
+    "jsstandard",
+    "lint",
+    "prettier",
+    "prettierconfig",
+    "prettier-config",
+    "standard",
+    "standard style"
+  ],
+  "author": "Nick Petruzzelli <code.npetruzzelli@gmail.com>",
+  "license": "BSD-3-Clause"
+}
