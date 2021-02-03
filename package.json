@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-standard",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A Prettier shareable config for projects using 'Prettier' and 'JavaScript Standard Style' as ESLint rules or separate processes.",
   "main": ".prettierrc.json",
   "repository": {
