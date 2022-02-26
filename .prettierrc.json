@@ -1,11 +1,11 @@
 {
   "arrowParens": "always",
+  "bracketSameLine": true,
   "bracketSpacing": true,
   "embeddedLanguageFormatting": "auto",
   "endOfLine": "lf",
   "htmlWhitespaceSensitivity": "css",
   "insertPragma": false,
-  "jsxBracketSameLine": true,
   "jsxSingleQuote": false,
   "printWidth": 80,
   "proseWrap": "preserve",
