@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-standard",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "A Prettier shareable config for projects using 'Prettier' and 'JavaScript Standard Style' as ESLint rules or separate processes.",
   "main": ".prettierrc.json",
   "repository": {
@@ -25,6 +25,6 @@
   "author": "Nick Petruzzelli <code.npetruzzelli@gmail.com>",
   "license": "BSD-3-Clause",
   "peerDependencies": {
-    "prettier": "^2.4.0"
+    "prettier": "^2.6.0 || ^3.0.0"
   }
 }
